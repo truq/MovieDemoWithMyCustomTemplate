@@ -31,3 +31,21 @@ Requirements :
 #b. Then the search results of the suggestion will be shown. 
 
 #ALL Requirments Done
+
+
+# Used CoreData For Data Persist  
+# Used Third party Datamanager class (Author Metova)
+
+# For Loder and Toast 
+# MBprogressHudView
+
+#for Image LAzy Loading with progress indicator Used Kingfisher 
+
+# For Networking Alamofire
+
+# Some Utiility Class from my Previuous Project like Alert,SizeUtil,ConnectionHelper 
+
+# Not Use of Storyboard.
+
+
+
